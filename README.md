@@ -18,7 +18,7 @@ I am a mechatronics engineering student at the University of Waterloo! I enjoy a
 
 ### 🌱 Currently Learning 
 • App Development with Swift. <br>
-• Fullstack web development with PHP and JS.
+• Fullstack web development with JS.
 
 ### 💬 Get In Touch 
 • https://www.linkedin.com/in/achirasarker/ <br>
