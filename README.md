@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a mechatronics engineering student at the University of Waterloo! I enjoy a good challenge and solving problems through code. When I'm not scratching my head at my desk trying to implement a new feature in my code or fixing a bug, I am usually writing or playing chess. I am passionate about learning, empowering young females in tech, and humanitarian work. Feel free to get in touch! 
+I am a mechatronics engineering student at the University of Waterloo! I enjoy a good challenge and solving problems through code. When I'm not scratching my head at my desk trying to implement a new feature in my code or fixing a bug, I am usually drawing or playing chess. I am passionate about learning, empowering young females in tech, and humanitarian work. Feel free to get in touch! 
 
 ### 🌱 Currently Learning 
 • App Development with Swift. <br>
