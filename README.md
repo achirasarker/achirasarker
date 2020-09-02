@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Achira :)
 <!--
 **achirasarker/achirasarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a mechatronics engineering student at the University of Waterloo! I am passionate about learning, empowering young females in tech, and humanitarian work. 
+
+### 🌱 Currently Learning 
+• App Development with Swift. <br>
+• Fullstack web development with PHP and JS.
+
+### 💬 Get In Touch 
+• https://www.linkedin.com/in/achirasarker/ <br>
+• https://achirasarker.me (Personal Website)
