@@ -21,5 +21,5 @@ I am a mechatronics engineering student at the University of Waterloo! I enjoy a
 • Fullstack web development with JS.
 
 ### 💬 Get In Touch 
-• https://www.linkedin.com/in/achirasarker/ <br>
-• https://achirasarker.me (Personal Website)
+• <a href="https://www.linkedin.com/in/achirasarker/">LinkedIn</a> <br>
+• <a href="https://achirasarker.me">Personal Website</a> 
