@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I am a mechatronics engineering student at the University of Waterloo. I am passionate about learning, empowering young females in tech, and entrepreneurship. In my free time, you'll often find me watching DIY videos, playing chess, or tinkering with code. Feel free to get in touch! 
 
 ### 🌱 Currently Learning 
-• Front-end development with React.js <br>
-• Back-end development with PHP
+• VHDL for FPGA and ASIC design <br>
+• Creating PCB designs using Altium 
 
 ### 💬 Get In Touch 
 • <a href="https://www.linkedin.com/in/achirasarker/">LinkedIn</a> <br>
