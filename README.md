@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a mechatronics engineering student at the University of Waterloo. I have a strong interest in embedded systems software development, electrical engineering and robotics. I am passionate about learning, empowering young females in tech, and entrepreneurship. In my free time, you'll often find me watching DIY videos, playing chess, or tinkering with code. Feel free to get in touch! 
+I am a Mechatronics Engineering student at the University of Waterloo. I have a strong interest in embedded systems software development, electrical engineering and robotics. I am passionate about learning and empowering young females in tech. In my free time, you'll often find me watching DIY videos, playing chess, or tinkering with code. Feel free to get in touch!😄
 
 ### 🌱 Currently Learning 
 • VHDL for FPGA and ASIC design <br>
