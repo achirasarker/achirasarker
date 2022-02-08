@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Mechatronics Engineering student at the University of Waterloo. I have a strong interest in embedded systems software development, hardware engineering and robotics. I am passionate about learning and empowering young females in tech. In my free time, you'll often find me watching DIY videos, playing chess, or tinkering with code. Feel free to get in touch!😄
+I am a Mechatronics Engineering student at the University of Waterloo. I have a strong interest in embedded systems development, firmware, hardware and robotics. I am passionate about learning and empowering young females in tech. In my free time, you'll often find me watching DIY videos, playing chess, or tinkering with code. Feel free to get in touch! 😄<br>
 
-### 🌱 Currently Learning 
-• VHDL for FPGA and ASIC design <br>
-• Creating PCB designs using Altium 
+<i>Currently seeking Fall 2022 internships.</i>
+
+### 🌱 Learning
+• I2C, SPI, UART for Firmware Development <br>
+• VHDL for FPGA and ASIC design 
 
 ### 💬 Get In Touch 
 • <a href="https://www.linkedin.com/in/achirasarker/">LinkedIn</a> <br>
