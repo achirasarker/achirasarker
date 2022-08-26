@@ -22,5 +22,7 @@ I am a Mechatronics Engineering student at the University of Waterloo. I have a 
 • I2C, SPI, UART for Firmware Development <br>
 • VHDL for FPGA and ASIC design 
 
+<!-- 
 ### 💬 Get In Touch 
 • <a href="https://www.linkedin.com/in/achirasarker/">LinkedIn</a> <br>
+-->
